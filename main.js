@@ -80,6 +80,7 @@ function buildGraph(edges)
     }
   }
 
+  //test
 
   console.log(VillageState);
 
